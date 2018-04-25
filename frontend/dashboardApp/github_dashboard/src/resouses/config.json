@@ -1,0 +1,4 @@
+{
+  "SERVER_URL_TABLE": "https://identity-gateway.cloud.wso2.com/t/wso2internal928/gitopenprdashboard/pullRequests?productName=",
+  "SERVER_URL_COUNT": "https://identity-gateway.cloud.wso2.com/t/wso2internal928/gitopenprdashboard/count"
+}
